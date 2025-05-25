@@ -1,0 +1,16 @@
+This game was created by sailorenoch and Fish^12 and is Licensed under CC-BY-SA 3.0 
+
+https://creativecommons.org/licenses/by-sa/3.0/
+
+The Ren'py is licensed under the MIT Liscence
+
+https://www.renpy.org/doc/html/license.html
+
+Ren'py Typewriter Sounds was created by aquapaulo and released under CC0 1.0 Universal
+
+https://github.com/aquapaulo/renpy-typewriter-sounds/tree/main
+
+Federo Font Sounds was created by Cyreal and released under SIL Open Font License, Version 1.1
+
+https://fonts.google.com/specimen/Federo/license
+
